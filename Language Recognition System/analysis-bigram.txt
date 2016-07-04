@@ -1,0 +1,42 @@
+Overall Accuracy of Bigram = 81.4717763948029%
+
+
+
+Accuracy of Language = Basque       81.28%
+Accuracy of Language = Catalan      78.3%
+Accuracy of Language = Galician     35.53%
+Accuracy of Language = Spanish      84.01%
+Accuracy of Language = English      85.27%
+Accuracy of Language = Portuguese   76.63%
+
+
+Confusion Matrix for Bigram:
+                 Basque            Catalan           Galician          Spanish            English           Portuguese    
+
+	  
+Basque           81.28%             1.07%             0.53%             13.64%             2.67%             0.8%             
+
+
+
+Catalan          0.4%               78.3%             0.94%             15.27%             3.15%             1.94%             
+
+
+
+Galician         0%                 5.26%            35.53%             37.06%           2.63%              19.52%             
+
+
+
+Spanish          1.39%             6.57%             1.71%             84.01%             3.52%              2.8%             
+
+
+
+English          0.93%             4.94%             0.1%              7.31%             85.27%              1.44%             
+
+
+
+Portuguese       0.97%             3.14%             1.89%             15.54%             1.84%             76.63%             
+
+
+
+
+

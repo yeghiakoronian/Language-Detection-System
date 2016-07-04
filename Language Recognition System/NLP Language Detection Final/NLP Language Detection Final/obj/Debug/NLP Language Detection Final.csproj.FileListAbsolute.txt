@@ -1,0 +1,13 @@
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\bin\Debug\NLP Language Detection Final.exe.config
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\bin\Debug\NLP Language Detection Final.exe
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\bin\Debug\NLP Language Detection Final.pdb
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP Language Detection Final.csprojResolveAssemblyReference.cache
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP_Language_Detection_Final.MainForm.resources
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP_Language_Detection_Final.Properties.Resources.resources
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP Language Detection Final.csproj.GenerateResource.Cache
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP Language Detection Final.exe.licenses
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP Language Detection Final.exe
+c:\users\yeghiakoronian\documents\visual studio 2013\Projects\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP Language Detection Final.pdb
+C:\Users\yeghiakoronian\Desktop\NLP\Language Recognition System\NLP Language Detection Final\NLP Language Detection Final\bin\Debug\NLP Language Detection Final.exe.config
+C:\Users\yeghiakoronian\Desktop\NLP\Language Recognition System\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP Language Detection Final.exe
+C:\Users\yeghiakoronian\Desktop\NLP\Language Recognition System\NLP Language Detection Final\NLP Language Detection Final\obj\Debug\NLP Language Detection Final.pdb
